@@ -8,6 +8,7 @@ export default {
     browser: true,
     es6: true,
     node: true,
+    jest: true
   },
 
   parser: "@typescript-eslint/parser",

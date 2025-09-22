@@ -29,6 +29,9 @@
     "credentials/**/*",
     "nodes/**/*",
     "nodes/**/*.json",
-    "package.json"
+    "package.json",
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "**/__tests__/**/*"
   ]
 }
